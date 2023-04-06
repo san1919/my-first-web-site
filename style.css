@@ -1,0 +1,213 @@
+*{
+    margin: auto;
+}
+body{
+    font-family: 'Montserrat', sans-serif; 
+}
+p{
+    font-size: 20px;
+    margin: 20px 0px 30px;
+    text-align: justify;
+}
+.ism{
+    margin-top: -10px;
+}
+.midel{
+    padding-left: 120px;
+}
+h1{
+    font-size: 70px;
+    }
+.ddd{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 25px;
+ color: white;
+    border-radius: 5px;
+    font-size: 20px; 
+}
+    h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.ptm-bnr{
+    display: flex;
+}
+.bac{
+    background-image: url(images/header_bg.png) ;
+}
+#iii{
+padding-right: 170px;
+}
+.info{
+    display: flex;
+ 
+} 
+.info p{
+    padding: 30px 70px;
+    text-align: center;
+  
+}
+.info p strong{
+    display: block;
+  font-weight: 900;
+    
+}
+.about{
+  background-color: peachpuff;
+    margin: 100px;
+    padding: 100px 50px 50px;
+    border-radius: 10px;
+}
+.me{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.abt{
+    text-align: center;
+}
+.bannar{
+text-align: center;
+margin: 30px 50px;
+border-radius: 10px;
+}
+.prgram{
+    display: flex;
+text-align: center;
+background-color:rgb(252, 252, 252);
+
+}
+.java{
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+    }
+.react{
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+}
+.mongo{
+    background-color: white;
+    padding:  20px;
+    margin: 15px;
+    
+}
+.node{
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+}
+.prgram p{
+    font-size: 15px;
+    text-align: start;
+    color: cadetblue;
+}
+.extra{
+    display: flex;
+    padding-top: 50px;
+} 
+.mid-bnr h2{
+    padding-top: 75px;
+}
+.edu h5{
+    padding-bottom: 10px;
+    font-size: 20px;
+
+}
+.edu h3{
+    padding: 10px 0px;
+  font-size: 25px;
+    color: rgb(91, 89, 89);
+}
+.edu h4{
+    font-size: 20px;
+    color: rgb(159, 156, 158);
+}
+.edu p{
+    font-size: 17px;
+    color:  rgb(151, 150, 151);
+}
+.exp h5{
+    padding-bottom: 10px;
+    font-size: 20px;    
+}
+.exp h3{
+    padding: 10px 0px;
+  font-size: 25px;
+    color: rgb(91, 89, 89); 
+}
+.exp h4{
+    font-size: 20px;
+    color: rgb(159, 156, 158);  
+}
+.exp p{
+    font-size: 17px;
+    color:  rgb(151, 150, 151);  
+}
+
+.exp{
+    text-align: left;
+}
+
+.edu{
+    margin-right: 70px;
+    text-align: left;
+}
+.sec-cv{
+    margin: 115px;
+}
+.d-cv{
+    text-decoration: none;
+    padding: 23px 33px;
+    background-color: rgb(219, 135, 10);
+    color:white;
+    font-size: 20px;
+    border-radius: 5px;
+ font-weight: bold;
+}
+.contact-me{
+    display: flex;
+    background-color: papayawhip;
+    margin: 50px 20px 0px;
+    padding: 100px;
+  
+}    
+.let-msg h2{ 
+    padding-bottom:70px ;
+}
+.let-con h2{
+  padding: -70px;  
+}
+.msg-info{
+    background-color: white;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 50px 90px;
+  border-style: none;
+}
+.submit{
+    padding: 15px 30px;
+    background-color:orange;
+   border-style: none;
+   font-size: 25px;
+   margin: 17px 0px 0px -200px;
+   border-radius: 5px;
+   color: white;
+   font-weight: bold;
+}
+.let-con{
+   padding-bottom: 415px;
+}
+.let-con h2{
+  
+    text-align: left;
+}
+.pera{
+
+font-size: 17px;
+}
+.img-gg{
+    text-align: left;
+    
+}
